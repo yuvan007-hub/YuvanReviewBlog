@@ -245,7 +245,7 @@
   </ul>
 
   <p>
-    Success is the <span class="highlight">accumulation of small improvements</span>, repeated daily with consistency. 🌿
+    Success is the <span class="highlight">accumulation of small improvements</span>, repeated daily with consistency. 
   </p>
 
   <h3>Who Will Benefit From This Book?</h3>
