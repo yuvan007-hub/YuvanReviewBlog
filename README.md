@@ -59,7 +59,7 @@
 </head>
 <body>
 
-  <h1>Atomic Habits – A Life-Changing Guide to Building Better Habits, One Tiny Step at a Time ✨</h1>
+  <h1>Atomic Habits – A Life-Changing Guide to Building Better Habits, One Tiny Step at a Time </h1>
 
   <p>
     <em>Atomic Habits</em> by James Clear has become one of the most influential personal development books
@@ -69,7 +69,7 @@
 
   <p>
     This book is not just something to read. <span class="highlight">It is a practical blueprint for designing the life
-    you want — habit by habit.</span> 🌱
+    you want — habit by habit.</span> 
   </p>
 
   <!-- Introduction -->
@@ -85,7 +85,7 @@
   </p>
 
   <div class="quote">
-    “You do not rise to the level of your goals. You fall to the level of your systems.” ⚙️
+    “You do not rise to the level of your goals. You fall to the level of your systems.” 
   </div>
 
   <p>
@@ -93,7 +93,7 @@
     motivation yet produce maximum impact.
   </p>
 
-  <h3>What Makes This Book Exceptional? 💡</h3>
+  <h3>What Makes This Book Exceptional? </h3>
 
   <ul>
     <li><span class="highlight">Practical:</span> Every idea can be applied immediately.</li>
@@ -103,7 +103,7 @@
   </ul>
 
   <!-- Core Idea -->
-  <h2>The Core Idea: The Power of 1% Improvement 📈</h2>
+  <h2>The Core Idea: The Power of 1% Improvement </h2>
 
   <p>
     One of the most compelling insights from the book is the concept of becoming just <span class="highlight">1% better each day</span>.
@@ -122,10 +122,10 @@
   <h3>Examples of Tiny Habits with Big Results</h3>
 
   <ul>
-    <li>📘 Reading 1 page a day → 12–15 books a year</li>
-    <li>🏃‍♂️ Jogging 5 minutes a day → builds a fitness routine</li>
-    <li>💰 Saving ₹10 a day → strengthens financial discipline</li>
-    <li>📚 Studying 10 minutes daily → boosts academic consistency</li>
+    <li> Reading 1 page a day → 12–15 books a year</li>
+    <li> Jogging 5 minutes a day → builds a fitness routine</li>
+    <li> Saving ₹10 a day → strengthens financial discipline</li>
+    <li> Studying 10 minutes daily → boosts academic consistency</li>
   </ul>
 
   <p>
@@ -165,10 +165,10 @@
   </p>
 
   <!-- 2. Make It Attractive -->
-  <h3>2️⃣ Make It Attractive</h3>
+  <h3> Make It Attractive</h3>
 
   <p>
-    We naturally repeat what feels rewarding. To build a new habit, associate it with something enjoyable. ✨
+    We naturally repeat what feels rewarding. To build a new habit, associate it with something enjoyable. 
   </p>
 
   <p>
@@ -177,7 +177,7 @@
   </p>
 
   <!-- 3. Make It Easy -->
-  <h3>3️⃣ Make It Easy</h3>
+  <h3> Make It Easy</h3>
 
   <p>
     Bad habits feel easy. Good habits feel difficult. So, reduce friction. Simplify the process. Minimize effort.
@@ -195,10 +195,10 @@
   </p>
 
   <!-- 4. Make It Satisfying -->
-  <h3>4️⃣ Make It Satisfying</h3>
+  <h3> Make It Satisfying</h3>
 
   <p>
-    We repeat behaviors that give immediate rewards. Therefore, ensure your habit feels satisfying at the end. 🎯
+    We repeat behaviors that give immediate rewards. Therefore, ensure your habit feels satisfying at the end. 
   </p>
 
   <h4>Ways to Reinforce Satisfaction</h4>
@@ -232,7 +232,7 @@
   </p>
 
   <!-- Final Verdict -->
-  <h2>Final Verdict: Why You Should Read <em>Atomic Habits</em> 📚</h2>
+  <h2>Final Verdict: Why You Should Read <em>Atomic Habits</em> </h2>
 
   <p>
     <em>Atomic Habits</em> stands out because it reveals that:
@@ -276,7 +276,7 @@
     If you want to change your life…<br>
     Start small.<br>
     Start consistent.<br>
-    Start atomic. ✨
+    Start atomic. 
   </p>
 
 </body>
