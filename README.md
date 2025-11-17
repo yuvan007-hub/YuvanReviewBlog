@@ -140,7 +140,7 @@
   </p>
 
   <!-- 1. Make It Obvious -->
-  <h3>1️⃣ Make It Obvious</h3>
+  <h3>Make It Obvious</h3>
 
   <p>
     Good habits require clear cues. Bad habits thrive because triggers are everywhere.
